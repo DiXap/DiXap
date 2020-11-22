@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **DiXap/DiXap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href = "https://github.com/DiXap">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiXap&exclude_repo=ICC_20201,generacion-2020,Raccoons-courses,LocalHackDay_Raccoons2019&hide=shell,batchfile&theme=tokyonight" />
+</a>
+<a href="https://github.com/DiXap">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiXap&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="DiXap's Stats" />
+</a>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
