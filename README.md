@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href = "https://github.com/DiXap">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiXap&exclude_repo=ICC_20201,generacion-2020,Raccoons-courses,LocalHackDay_Raccoons2019&hide=shell,batchfile&theme=tokyonight" />
-</a>
-<a href="https://github.com/DiXap">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiXap&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="DiXap's Stats" />
-</a>
+
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code>
 
 <!--START_SECTION:waka-->
 
