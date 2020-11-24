@@ -1,18 +1,17 @@
 # Hello there! 👾
 
-<p align="center">
-  <b><i>Find me at 📫</i></b>  
 
-<div style="text-align:center">
-    <a href="https://dev.to/dixap">
-        <img height="30" align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=dpadlara@gmail.com">
-        <img height="30" align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</div>
+<b><i>Find me at 📫  </i></b>  
+  
+<a href="https://dev.to/dixap">
+    <img height="30" align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+    
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=dpadlara@gmail.com">
+    <img height="30" align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+
 <hr/>
 <!--
 **DiXap/DiXap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
