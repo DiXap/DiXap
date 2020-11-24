@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code>
 
 <!--START_SECTION:waka-->
-
+```text
+Markdown   25 mins         █████████████████▒░░░░░░░   69.86 % 
+Python     10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
+```
 <!--END_SECTION:waka-->
