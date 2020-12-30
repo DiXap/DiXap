@@ -48,8 +48,8 @@ Other      17 mins         █░░░░░░░░░░░░░░░░�
 
 
 ---
-![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%23006847&colorB=%23ce1126&template=for-the-badge)
 ![Visitor Count](https://profile-counter.glitch.me/DiXap/count.svg)
+![Made with love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorA=%23006847&colorB=%23ce1126&template=for-the-badge)
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 [![forthebadge build-with-crayons](https://forthebadge.com/images/badges/made-with-crayons.svg)](http://ForTheBadge.com)  
