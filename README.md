@@ -30,8 +30,7 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code> 
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code> 
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"></code> 
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"></code> 
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code> 
+<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/vim.svg"></code> 
 
 <br/>
 
